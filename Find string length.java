@@ -1,4 +1,4 @@
-// WAP to fing string length
+// WAP to fin string length
 class Main{
     public static void main(String args[]){
         String greet="Hello World";
