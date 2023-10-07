@@ -1,4 +1,4 @@
-// Wap to max and min in array
+// Wap to  max and min in array
 import java.util.Arrays;
  public class a{
      public static void main (String[]args){
