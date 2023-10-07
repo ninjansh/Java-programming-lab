@@ -1,4 +1,4 @@
-//to take name and print amailid
+//to take name  and print amailid
 import java.util.Scanner;
 class Main{
     public static void main(String args[]){
