@@ -1,4 +1,4 @@
-// 
+// I
 class Square extends Shape {
     private double side;
 
